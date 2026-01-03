@@ -37,4 +37,5 @@ gcc -o billionaires_manager billionaires_manager.c
 ## Copyright
 
 © 2026 Nikos Dimopoulos.
+
 Reproduction or use without permission is prohibited.
