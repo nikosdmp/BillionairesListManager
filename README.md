@@ -34,6 +34,6 @@ Compile and run using GCC:
 gcc -o billionaires_manager billionaires_manager.c
 ```
 
-Copyright
+##Copyright
 © 2026 Nikos Dimopoulos.
 Reproduction or use without permission is prohibited.
