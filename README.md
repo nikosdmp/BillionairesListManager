@@ -26,9 +26,9 @@ This C program allows you to manage a list of billionaires. You can add, search,
 
 ---
 
-## Usage
+## How to Run
 
-1. Compile the program with a C compiler:
+Compile and run using GCC:
 
 ```bash
 gcc -o billionaires_manager billionaires_manager.c
