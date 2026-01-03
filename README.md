@@ -37,4 +37,4 @@ gcc project2.c -o project2
 
 ## Copyright
 
-© 2026 Nikos Dimopoulos.                                                                                                                                Reproduction or use without permission is prohibited.
+© 2026 Nikos Dimopoulos.                                                                                                                                            Reproduction or use without permission is prohibited.
