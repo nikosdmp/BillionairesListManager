@@ -32,6 +32,7 @@ Compile and run using GCC:
 
 ```bash
 gcc -o billionaires_manager billionaires_manager.c
+./billionaires_manager
 ```
 
 ## Copyright
